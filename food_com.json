@@ -1,0 +1,17 @@
+{
+  "register": 
+    {
+      "urlRegExp": "https:\/\/(?:www.)?food\.com\/.*",
+      "container": ".gigya-right-side.",
+      "username": "[name='email']",
+      "email": "[name='email']",
+      "password": "[name='password']"
+    },
+  "login":
+    {
+      "urlRegExp": "https:\/\/(?:www.)?food\.com\/.*",
+      "container": ".gigya-right-side",
+      "username": "[name='username']",
+      "password": "[name='password']"
+    }
+}
